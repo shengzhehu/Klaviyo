@@ -1,7 +1,6 @@
-# Klaviyo
+# KlaviyoApp:  Weather Powered Email
  Klaviyo challenge https://www.klaviyo.com/weather-app
 
-## KlaviyoApp:  Weather Powered Email
 
 ## Weather App:
 The weather App contains a home page and a newsletter template.
@@ -34,6 +33,10 @@ The weather App contains a home page and a newsletter template.
 #### invalid check:
 
 ![Alt Text](imgs/invalid.png)
+
+#### newsletter:
+
+![Alt Text](imgs/newsletter.png)
 
 ## Future works
 1. Use Google place API instead of manually add cities to do the auto completion.
